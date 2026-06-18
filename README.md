@@ -1,6 +1,6 @@
 # Oueslati mohamed aziz
 
-Graduated with a Licence in GLSI . Currently alooking for a professional opportunity . Focused on backend development and problem-solving.
+Graduated with a Licence in GLSI . Currently looking for a professional opportunity . Focused on backend development and problem-solving.
 
 ---
  
