@@ -1,16 +1,36 @@
-## Hi there 👋
+# Oueslati mohamed aziz
 
-<!--
-**aziz628/aziz628** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Graduated with a Licence in GLSI . Currently alooking for a professional opportunity . Focused on backend development and problem-solving.
 
-Here are some ideas to get you started:
+---
+ 
+### Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   **Backend Development:** Java , Spring Boot, node.js 
+*   **Frontend Development:** JavaScript, HTML5, CSS3, react js
+*   **Databases :** SQL, PostgreSQL , MySQL ,SQLite , Redis
+*   **Tools :** VS Code , Eclipse, Postman, Maven ,Gradle, Jest, ESLint, UML 
+
+---
+    
+### Projects
+#### Tickets and subscriptions management 
+* Web application for managing railway tickets and subscriptions
+*   **Tech Stack:** Java, Spring Boot, React js, PostgreSQL, Redis, nginx, docker
+*   **Link:** [View Repository](https://github.com/aziz628/rail-ticketing-platform)
+
+#### Gym cms
+* Gym Content Management System
+*   **Tech Stack:** JavaScript , Express.js , SQLite,  React.js ,docker 
+*   **Link:** [View Repository](https://github.com/aziz628/cms-app)
+
+
+#### Spending Tracker
+* Android app to manage personal spending
+*   **Tech Stack:** Java, android sdk , gradle 
+*   **Link:** [View Repository](https://github.com/aziz628/SpendingTracker)
+
+---
+
+### Contact
+*   **Email:** mohamedaziz.oueslati@fsb.ucar.tn
