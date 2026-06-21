@@ -26,6 +26,7 @@ Web application for managing railway tickets and subscriptions.
 - Multi-role platform for travelers, agents and administrators
 
 **Tech Stack:** Java, Spring Boot, React, PostgreSQL, Redis, Nginx, Docker
+
 **Link:** [View Repository](https://github.com/aziz628/rail-ticketing-platform)
 
 #### Gym cms
@@ -38,6 +39,7 @@ Gym Content Management System
 - Secure Authentication
 
 **Tech Stack:** JavaScript , Express.js , SQLite,  React.js ,docker 
+
 **Link:** [View Repository](https://github.com/aziz628/cms-app)
 
 
@@ -51,9 +53,11 @@ Android app to manage personal spending
 - Spending statistics and visualizations
 
 **Tech Stack:** Java, android sdk , gradle 
+
 **Link:** [View Repository](https://github.com/aziz628/SpendingTracker)
 
 ---
 
 ### Contact
 *   **Email:** mohamedaziz.oueslati@fsb.ucar.tn
+*   **LinkedIn:** https://www.linkedin.com/in/mohamed-aziz-oueslati-478327354
